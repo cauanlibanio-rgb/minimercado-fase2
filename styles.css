@@ -1,0 +1,7 @@
+:root{--brand:#198754}
+html{scroll-behavior:smooth}
+header a.nav-link.active{text-decoration:underline}
+footer{background:#f8f9fa}
+.visually-hidden-focusable:active,.visually-hidden-focusable:focus{position:static;width:auto;height:auto;margin:0;overflow:visible;clip:auto}
+.required::after{content:" *";color:#dc3545}
+.card .badge{font-size:.95rem}
